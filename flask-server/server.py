@@ -41,9 +41,9 @@ def initialize_watson_granite():
     # IBM Watson Machine Learning credentials and project information
     credentials = {
         "url": "https://jp-tok.ml.cloud.ibm.com",  # Replace with your WML service URL
-        "apikey": "ddRZNR2OMQMSufEb81AnA87Hvn-q__ZkNJEXU3Rv5NhD"  # Replace with your WML API key
+        "apikey": "d234234234hD"  # Replace with your WML API key
     }
-    project_id = "7d624502-0abc-4210-9776-b29b0aecd77d"  # Replace with your project ID
+    project_id = "234234234d77d"  # Replace with your project ID
 
     # Initialize model parameters
     model_id_1 = "mistralai/mixtral-8x7b-instruct-v01"#"ibm/granite-13b-instruct-v2"
